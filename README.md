@@ -1,2 +1,4 @@
-# aws-secret
-Test AWS secret manager
+## 20 MAy 2024
+## Retrieve secret using boto3 secret manager client
+
+run: python test.py
